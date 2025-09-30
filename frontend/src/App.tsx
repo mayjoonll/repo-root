@@ -33,6 +33,11 @@ export default function App() {
 
   return (
     <Container className="py-4">
+    <div className="p-6">
+      <h1>My App</h1>
+      <p className="mt-2">CI/CD OK 🚀</p>
+    </div>
+    
       <Row className="mb-3">
         <Col><h3>사용자 관리</h3></Col>
       </Row>
